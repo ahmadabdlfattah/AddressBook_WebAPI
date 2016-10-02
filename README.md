@@ -15,3 +15,6 @@ Each address book has name (Mandatory) , email (Mandatory), address, phone numbe
 - ASP.net WebAPI 2
 - Azure Deployment Services
 
+## Note
+- This Application is deployed via azure deployment services (Trial Account), Subscribtions will end on 24/10/2016
+
